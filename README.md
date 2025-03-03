@@ -90,6 +90,5 @@ python train_model.py
 
 ## **Contact**  
 For any questions or contributions, feel free to open an issue or reach out! 🚀  
-Email - amityelin@gmail.com
 ---
-
+Email - amityelin@gmail.com
