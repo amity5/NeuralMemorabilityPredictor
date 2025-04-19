@@ -19,6 +19,7 @@ This project explores how neural activity in **visual cortex regions** predicts 
 - **Participants:** 3 humans (2 female, 1 male; mean age: 25.33 years)
 - **Stimuli:** 9,840 images
 - **Regions of Interest (ROIs):**
+
   -Visual: FFA, LOC, PPA, EBA, Inferotemporal Cortex
 
   -Memory: Hippocampus, Entorhinal Cortex, Parahippocampal Areas (PHA1–3), Retrosplenial Cortex, Perirhinal Cortex, Presubiculum, Prosubiculum, Subgenual Cortex, Orbitofrontal Cortex, Anterior/Medial/Dorsolateral Prefrontal Cortex
@@ -70,7 +71,7 @@ This project explores how neural activity in **visual cortex regions** predicts 
 ├── 📁 THINGS-fMRI-dataset-analysis/
 │   ├── SVC_&_MLP_fMRI_THINGS.ipynb            # ML models for human fMRI data
 │   ├── THINGS fMRI preprocess and data.ipynb  # Preprocessing pipeline
-│   └── All_Areas_Statistical_Analysis_fMRI.ipynb  # ROI-level correlation analysis
+│   └── Statistical_Analysis.ipynb  # ROI-level correlation analysis
 │
 ├── 📁 TVSD-dataset-analysis/
 │   ├── 📁 SVC and MLP TVSD/
