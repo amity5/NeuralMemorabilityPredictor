@@ -20,6 +20,7 @@ This project explores how neural activity in **visual cortex regions** predicts 
 - **Stimuli:** 9,840 images
 - **Regions of Interest (ROIs):**
   -Visual: FFA, LOC, PPA, EBA, Inferotemporal Cortex
+
   -Memory: Hippocampus, Entorhinal Cortex, Parahippocampal Areas (PHA1–3), Retrosplenial Cortex, Perirhinal Cortex, Presubiculum, Prosubiculum, Subgenual Cortex, Orbitofrontal Cortex, Anterior/Medial/Dorsolateral Prefrontal Cortex
 
 ### **THINGS TVSD Dataset** (Monkey Data)
