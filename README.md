@@ -70,7 +70,7 @@ This project explores how neural activity in **visual cortex regions** predicts 
 │
 ├── 📁 THINGS-fMRI-dataset-analysis/
 │   ├── SVC_&_MLP_fMRI_THINGS.ipynb            # ML models for human fMRI data
-│   ├── THINGS fMRI preprocess and data.ipynb  # Preprocessing pipeline
+│   ├── fMRI_roi_response_to_stimuli.py  # Preprocessing pipeline
 │   └── Statistical_Analysis.ipynb  # ROI-level correlation analysis
 │
 ├── 📁 TVSD-dataset-analysis/
